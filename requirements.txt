@@ -8,3 +8,4 @@ numpy>=2.0.1
 scipy
 scikit-learn
 streamlit==1.36.0
+pillow==9.5.0
